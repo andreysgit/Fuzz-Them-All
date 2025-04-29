@@ -1,0 +1,6 @@
+.DS_STORE
+target/CACHEDIR.TAG
+target/release/fuzzer.d
+target/release/deps
+target/release/build
+target/release/.fingerprint
